@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Drajat wibowo",
+      "hobi": "Game",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": "2",
+      "name": "Gilbray",
+      "hobi": "Tidur",
+      "alamat": "Solo"
+    },
+    {
+      "id": "3",
+      "name": "Mulyon",
+      "hobi": "Musik",
+      "alamat": "Bekasi"
+    }
+  ]
+}
